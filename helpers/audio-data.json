@@ -1,0 +1,18 @@
+{
+  "beer": {
+    "audio": "<audio src='https://s3.amazonaws.com/drink-selector-skill/crackacoldone.mp3' />",
+    "alexa": " Go grab a cold one, crack it open, and drink it with the boys"
+  },
+  "shot": {
+    "audio": "<audio src='https://s3.amazonaws.com/drink-selector-skill/shots.mp3' />",
+    "alexa": " Go rip a shot, if you are going to puke, please use the toilet for that"
+  },
+  "shotOClock": {
+    "audio": "<audio src='https://s3.amazonaws.com/drink-selector-skill/shotoclock.mp3' />",
+    "alexa": " Frankie you know what it do"
+  },
+  "mystery": {
+    "audio": "<audio src='https://s3.amazonaws.com/drink-selector-skill/now+you+fucked+up.mp3' />",
+    "alexa": " All I gotta say is            good luck!"
+  }
+}
